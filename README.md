@@ -62,7 +62,7 @@ endmodule
 
 **Timing Diagram**
 
-![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/8b186339-a4a4-4929-ac32-83965339c5c5)
+![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/cd7fea64-e639-486b-a0df-3390a18614d8)
 
 
 **Result:**
