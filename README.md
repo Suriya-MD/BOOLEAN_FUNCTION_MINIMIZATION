@@ -35,7 +35,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 ~~~
-module ex02(A,B,C,D,F1);
+module exp2(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
 wire x1,x2,x3,x4,x5;
@@ -54,15 +54,16 @@ endmodule
 
 **RTL realization Output:**
 
-![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/3d4ac965-2f11-4fb8-8296-56e047d40f02)
+![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/ba12ba41-a6b6-4ed4-84fe-711af48f587a)
 
 **Truth table**
 
-![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/8453c1c1-8d9b-430c-970e-3242e7daa95f)
+![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/1c135ffa-c643-4d05-ad0c-ec59ff2ee26b)
 
 **Timing Diagram**
 
-![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/c32f6501-b27c-499d-b99e-ac3a3c520f98)
+![image](https://github.com/Suriya-MD/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120571/8b186339-a4a4-4929-ac32-83965339c5c5)
+
 
 **Result:**
 
